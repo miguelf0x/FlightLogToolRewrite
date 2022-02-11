@@ -1,0 +1,2 @@
+# FlightLogToolRewrite
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/65ea2003823141419884a962d1e83319)](https://app.codacy.com/gh/miguelf0x/FlightLogToolRewrite?utm_source=github.com&utm_medium=referral&utm_content=miguelf0x/FlightLogToolRewrite&utm_campaign=Badge_Grade_Settings)
